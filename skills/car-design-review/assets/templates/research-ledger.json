@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "project": {
+    "title": "",
+    "workspace": "",
+    "output_formats": [],
+    "target_url": null,
+    "reference_url": null,
+    "as_of": ""
+  },
+  "vehicles": [],
+  "sources": [],
+  "images": [],
+  "themes": [],
+  "stages": [],
+  "field_guide": {
+    "vehicles": "id, brand, name_cn, name_en, model_year, market, generation, body_style, variant, scope",
+    "sources": "id, title, publisher, author, published_at, url, accessed_at, vehicle_ids, type (official/media/history/wiki), access (read/access_limited), supported_claims",
+    "images": "id, vehicle_id, model_year, variant, angle, section (主体比例/局部细节/车漆配色/品牌故事), local_path, source_id, asset_url, credit, width, height, sha256, initial_review, pfdbi_dimensions, inspected, saved_to_document",
+    "themes": "vehicle_id, title, thesis, visual_anchor_image_ids, source_ids, selected_reason",
+    "stages": "stage, status, saved_path_or_url, revision, verified, limitations"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "runs": [
+    {
+      "run_id": "2026-10-30-mustang-camaro",
+      "date": "2026-10-30",
+      "task": "从野马与科迈罗文档协作中沉淀汽车设计内容生产方法",
+      "tags": [
+        "PFDBI",
+        "主题",
+        "外观",
+        "历史叙事",
+        "阶段写入",
+        "飞书"
+      ],
+      "status": "complete",
+      "path": "runs/2026-10-30-mustang-camaro.md"
+    }
+  ]
+}

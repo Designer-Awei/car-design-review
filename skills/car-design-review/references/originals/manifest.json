@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "captured_on": "2026-10-30",
+  "materials": [
+    {
+      "path": "PFDBI-framework.pdf",
+      "original_name": "汽车设计评价框架.pdf",
+      "source": "用户提供本地原件",
+      "kind": "user_original",
+      "bytes": 1488441,
+      "sha256": "8556361833f0556d7dbb6453b1c28b13bbd9c8847f59793dde6717bb5f39dd2f",
+      "integrity": "byte-for-byte copy",
+      "author": "用户提供的方法原件"
+    },
+    {
+      "path": "toto/toto-taycan.txt",
+      "original_name": "【ToTo文翰】简单聊聊新款保时捷Taycan.txt",
+      "source": "https://wcrigx8gjf.feishu.cn/wiki/LWEnwmsWqiughhk4oWXcd5h3ngd",
+      "kind": "user_attachment",
+      "bytes": 18581,
+      "sha256": "b8dcfb53916fe5333f71bda4e296b5528508ce837e7a86b507e2d5625162b610",
+      "integrity": "byte-for-byte copy",
+      "author": "ToTo文翰"
+    },
+    {
+      "path": "toto/toto-shapes.txt",
+      "original_name": "【ToTo文翰】汽车设计里的圆形，方形，三角形.txt",
+      "source": "https://wcrigx8gjf.feishu.cn/wiki/LWEnwmsWqiughhk4oWXcd5h3ngd",
+      "kind": "user_attachment",
+      "bytes": 15210,
+      "sha256": "bad19d49fb21ecc55e2557e5a044fb14674342e0534f093ec1e1acfb7275d376",
+      "integrity": "byte-for-byte copy",
+      "author": "ToTo文翰"
+    },
+    {
+      "path": "toto/toto-proportions.txt",
+      "original_name": "【ToTo文翰】设计师噩梦：尺寸mini，空间max，还得比例好.txt",
+      "source": "https://wcrigx8gjf.feishu.cn/wiki/LWEnwmsWqiughhk4oWXcd5h3ngd",
+      "kind": "user_attachment",
+      "bytes": 11426,
+      "sha256": "8fa95ce75992d4f8c6c144b9c2fad20db85ea30ff6be2f6570a7971d52295700",
+      "integrity": "byte-for-byte copy",
+      "author": "ToTo文翰"
+    },
+    {
+      "path": "PFDBI-framework.txt",
+      "original_name": "由PFDBI-framework.pdf提取的可检索全文",
+      "source": "PFDBI-framework.pdf",
+      "kind": "derived_text",
+      "bytes": 7750,
+      "sha256": "8db56a8a2f78d12e457f859e71835a8f793bd80a834a7ad49773b85579aaad57",
+      "integrity": "full-page text extraction; original PDF remains authoritative",
+      "pages": 12
+    }
+  ]
+}

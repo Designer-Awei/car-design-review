@@ -1,0 +1,4 @@
+interface:
+  display_name: "汽车设计评价与科普文案"
+  short_description: "从车型素材与PFDBI初评出发，围绕鲜明主题逐步生成完整设计科普文档"
+  default_prompt: "使用 $car-design-review，为我指定的车型按阶段完成多视角素材、PFDBI初评、设计研究、主题与文案，并写入我指定的飞书或导出Word/PDF。"

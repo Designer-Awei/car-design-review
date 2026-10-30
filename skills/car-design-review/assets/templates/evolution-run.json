@@ -1,0 +1,16 @@
+{
+  "run_id": "YYYY-MM-DD-project-slug",
+  "date": "YYYY-MM-DD",
+  "task": "",
+  "tags": [],
+  "formats": [],
+  "status": "partial",
+  "outcome": "",
+  "user_feedback": [],
+  "changes": [],
+  "validation": [],
+  "evidence": [],
+  "candidate_improvements": [],
+  "promoted_principles": [],
+  "limitations": []
+}

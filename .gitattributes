@@ -1,0 +1,9 @@
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.yaml text eol=lf
+# Original transcripts and PDF remain byte-for-byte faithful.
+skills/car-design-review/references/originals/toto/*.txt -text
+*.pdf binary

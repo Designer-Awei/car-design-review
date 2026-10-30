@@ -1,0 +1,16 @@
+# Project artifacts and credentials do not belong in the reusable skill.
+.cache/
+work/
+projects/
+outputs/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+Thumbs.db
+.DS_Store
+~$*
